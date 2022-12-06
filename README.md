@@ -12,7 +12,10 @@ Table of Contents
   * [Report](#Report)
   * [Dataset](#Dataset)
   * [Knowledge Distilling](#Knowledge_Distilling)
-  * [Multi-task Learning](#Multi-task_Learning)  
+  * [Multi-task Learning](#Multi-task_Learning)
+  * [Meta Learning](#Meta_Learning) 
+  * [Image Dehazing upon Transformer](Image_Dehazing_upon_Transformer)
+  * [Image Dehazing upon Meta Learning](#Image_Dehazing_upon_Meta_Learning) 
   * [Image Dehazing upon Knowledge Distilling](#Image_Dehazing_upon_Knowledge_Distilling)
   * [Thesis](#Thesis)
 
@@ -40,11 +43,24 @@ Table of Contents
 1. [[introduction]](https://zhuanlan.zhihu.com/p/352428655)
 
 
+## Meta_Learning
+
+
+## Image_Dehazing_upon_Transformer
+1. Ming Tong, Yongzhen Wang, Peng Cui, Xuefeng Yan, and Mingqiang Wei. **Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
+
+
+
+## Image_Dehazing_upon_Meta_Learning  
+1. Wenqi Ren, Qiyu Sun, Chaoqiang Zhao, and Yang Tang. **Towards Generalization on Real Domain for Single Image Dehazing via Meta-Learning**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2211.07147.pdf)
+
+
 
 ## Image_Dehazing_upon_Knowledge_Distilling
 1. Ming Hong, Yuan Xie, Cuihua Li, and Yanyun Qu. **Distilling Image Dehazing with Heterogeneous Task Imitation**. CVPR 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156318) [[Report]](http://events.jianshu.io/p/37d37be98750)
 
 
+2. Sai Mitheran, Anushri Suresh, Nisha J. S., and Varun P. Gopi. **Rich Feature Distillation with Feature Affinity Module for Efficient Image Dehazing**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2207.11250.pdf)
 
 
 <!-- ## Thesis
