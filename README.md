@@ -14,7 +14,7 @@ Table of Contents
   * [Knowledge Distilling](#Knowledge_Distilling)
   * [Multi-task Learning](#Multi-task_Learning)
   * [Meta Learning](#Meta_Learning) 
-  * [Image Dehazing upon Transformer](#Image_Dehazing_upon_Transformer)
+  * [Image Dehazing upon Transformer](Image_Dehazing_upon_Transformer)
   * [Image Dehazing upon Meta Learning](#Image_Dehazing_upon_Meta_Learning) 
   * [Image Dehazing upon Knowledge Distilling](#Image_Dehazing_upon_Knowledge_Distilling)
   * [Thesis](#Thesis)
