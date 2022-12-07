@@ -13,8 +13,8 @@ Table of Contents
   * [Dataset](#Dataset)
   * [Knowledge Distilling](#Knowledge_Distilling)
   * [Multi-task Learning](#Multi-task_Learning)
-  * [Meta Learning](#Meta_Learning) 
-  * [Image Dehazing upon Transformer](Image_Dehazing_upon_Transformer)
+  * [Meta Learning](#Meta_Learning)
+  * [Image Dehazing upon Transformer](#Image_Dehazing_upon_Transformer)
   * [Image Dehazing upon Meta Learning](#Image_Dehazing_upon_Meta_Learning) 
   * [Image Dehazing upon Knowledge Distilling](#Image_Dehazing_upon_Knowledge_Distilling)
   * [Thesis](#Thesis)
@@ -63,10 +63,8 @@ Table of Contents
 2. Sai Mitheran, Anushri Suresh, Nisha J. S., and Varun P. Gopi. **Rich Feature Distillation with Feature Affinity Module for Efficient Image Dehazing**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2207.11250.pdf)
 
 
-<!-- ## Thesis
-1. Yafang Wang. [Methods and Tools for Temporal Knowledge Harvesting](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf). Dissertation 2013. [[Paper]](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf)
- -->
-
+## Thesis
+1. 徐菁. **基于深度学习的图像质量提升方法研究**. 成都：电子科技大学, 2020. [[Thesis]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020737028.nh&uniplatform=NZKPT&v=1gi-cWx3N5c7HiMuAEq6NG1kOhNJR4hRLramdPlWHLuwheO3dkVlIront_tNt_Cw)
 
 
 
